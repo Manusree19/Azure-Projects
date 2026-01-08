@@ -42,6 +42,20 @@ A production-style web application deployed using **Azure App Service**, secured
 secure-scalable-webapp/
 ---
 
+---
+
+### 🔹 NGO Website Hosting Using Azure Storage Static Website
+A real-world **NGO static website** hosted using **Azure Storage Static Website**, providing a cost-effective, scalable, and publicly accessible solution.
+
+**Key highlights:**
+- Static website hosting using Azure Blob Storage
+- No server or runtime management required
+- Highly available and scalable architecture
+- Live website verified via Azure static website endpoint
+
+**Project folder:** 
+NGO-website Hosting/
+
 ## 📸 Documentation
 Each project folder includes:
 - A detailed `README.md`
